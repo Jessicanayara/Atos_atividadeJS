@@ -1,0 +1,4 @@
+Dedicado a continuação de pesquisa para solucionar os exercicios
+https://www.devmedia.com.br/javascript-replace-substituindo-valores-em-uma-string/39176
+https://www.freecodecamp.org/portuguese/news/o-metodo-addeventlistener-exemplo-de-codigo-com-listener-de-eventos-em-javascript/
+https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLFormElement/submit_event

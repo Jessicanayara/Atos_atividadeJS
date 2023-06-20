@@ -1,0 +1,13 @@
+table tbody th {
+    width: 25%;
+}
+
+#tabela-dados{
+
+    display: none;
+}
+
+#cep-erro{
+
+    display: none;
+}
